@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Moneebbhatti9/Little-Lemon-Resturant-Project.git"
+  },
+  "author": "Moneeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moneebbhatti9/Little-Lemon-Resturant-Project/issues"
+  },
+  "homepage": "https://github.com/Moneebbhatti9/Little-Lemon-Resturant-Project#readme"
 }
